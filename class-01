@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body bgcolor="lightblue">
+  <h1>Hello World</h1>
+  <h2>Hello again</h2>
+  <p>Hello I am a paragrph</p>
+
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quam animi nesciunt hic sed illum odio quia reiciendis rerum. Libero, minima? Tempora ducimus, ipsam obcaecati maiores omnis assumenda itaque non!</p>
+
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste cumque perferendis pariatur odit ratione totam earum beatae doloremque labore enim alias praesentium tempora temporibus unde at corporis quaerat, quas delectus!</p>
+  
+
+   <!-- Orderd List -->
+
+  <h2>Groceries</h2>
+   <ol>
+    <li>Chawal</li>
+    <li>OIL</li>
+    <li>Biryani</li>
+    <li>Tea powder</li>
+    <li>Kadahi</li>
+    <li>Beef</li>
+    <li>Mutton</li>
+    <li>Sugger</li>
+   </ol>
+
+   <!-- unorders list -->
+   <h2>Chai recipe</h2>
+   <ul>
+    <li>2 cup water</li>
+    <li>1 Table spoon</li>
+    <li>2 table spoon Sugar</li>
+    <li>ilachi</li>
+    <li>200 Milk</li>
+   </ul>
+
+   <!-- Defination List -->
+
+   <dl>
+    <dt>Accounting:</dt>
+    <dd>Art of recording of financial transactions</dd>
+
+    <dt>Economics:</dt>
+    <dd>How to earn and How to spend</dd>
+   </dl>
+
+
+   <!-- Nested List -->
+
+    <ul>
+    <li>Apple</li>
+    <li>orange</li>
+        <ul>
+          <li>grapes</li>
+          <li>Mango</li>
+          <li>pinapple</li>
+        </ul>
+    <li>Banana</li>
+    </ul>
+</body>
+</html>
+
