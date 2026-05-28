@@ -1,5 +1,3 @@
-# HEC-WEB-AND-APP-DEVLOPMENT
-
 # 🌐 HEC Web & App Development Course
 
 Welcome to the official repository for the **HEC Web & App Development Course**! 🎉
